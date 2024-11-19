@@ -1,8 +1,11 @@
 {
-  "templateUrl": "https://github.com/businesscentralapps/tmpmhCk42-PTE@main",
   "type": "PTE",
-  "RepoName": "Privé",
+  "MicrosoftTelemetryConnectionString": "",
+  "gitHubRunner": "ubuntu-latest",
   "runs-on": "ubuntu-latest",
-  "shell": "pwsh",
-  "MicrosoftTelemetryConnectionString": ""
+  "UseCompilerFolder": true,
+  "doNotPublishApps": true,
+  "RepoName": "Privé",
+  "templateUrl": "https://github.com/businesscentralapps/tmpmhCk42-PTE@main",
+  "shell": "pwsh"
 }
